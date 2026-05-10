@@ -1,0 +1,10 @@
+{
+    "sql_server": {
+      "name_server": "MSI",
+      "database": "ViveEC",
+      "username": "pythonconsultorViveEC",
+      "password": "VIVEEC",
+      "controlador_odbc": "SQL Server"
+    }
+}
+
