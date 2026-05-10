@@ -26,11 +26,12 @@ Sistema CRUD desarrollado en Python y SQL Server para la gestión de canciones d
 - `Script_Configuracion_DB_Cancion.sql` → Script completo de creación de base de datos, objetos programables, login, usuario y permisos
 - `README.md` → Documentación del proyecto
 
-## Autores
-Mateo Tipán, Luis Vasquez, Martín Ochoa
-  
 ## Base de datos
 - ViveEC
 - Tabla: Musica.Cancion
+
+## Autores
+Mateo Tipán, Luis Vasquez, Martín Ochoa
+  
 
   
